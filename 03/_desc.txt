@@ -1,0 +1,4 @@
+https://www.r-bloggers.com/2021/03/a-clever-bash-script-for-r-users-2/
+A clever bash script for R Users
+
+You can generate your own list of used R packages based on your existing code. For that, use the R code below, which will scan your files and retrieve all calls to existing packages.
