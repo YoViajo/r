@@ -1,0 +1,4 @@
+https://dominicroye.github.io/en/2019/import-excel-sheets-with-r/
+Import Excel sheets with R
+
+In this post we are going to import the average daily temperature of Madrid and Berlin which is found in two Excel files with sheets for each year between 2000 and 2005

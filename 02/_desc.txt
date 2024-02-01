@@ -1,0 +1,7 @@
+https://www.business-science.io/code-tools/2021/05/18/dataeditr.html
+GUI for Editing Dataframes in R
+
+Edición interactiva de datos con el paquete DataEditR [R]
+La versión modificada puede guardarse como archivo CSV
+
+
